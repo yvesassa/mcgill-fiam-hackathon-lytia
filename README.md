@@ -2,7 +2,6 @@
 
 📅 September–October 2024  
 🏫 McGill University – Master of Management in Analytics  
-🏆 Finalist Project
 
 ## 🔍 Project Overview
 
@@ -41,14 +40,17 @@ This project was developed for the McGill–FIAM Quantitative Asset Management H
 
 ## 📊 Visuals
 
-<img src="images/returns_chart.png" width="600">
+![Picture1](https://github.com/user-attachments/assets/b735d5f1-9956-41d7-b4c1-3fabb8a73784)
 
-*You can include charts or screenshots of your portfolio return comparisons, feature importance from XGBoost, or heatmaps here.*
+![Picture6](https://github.com/user-attachments/assets/ec14c086-c055-4b2f-b11c-7248c73975cc)
+
 
 ## 👤 Contributors
 
-- **Yves E. Assali** – Model development, portfolio strategy, analytics  
-- [Other team members if applicable]
+- **Yves E. Assali**
+- **Luas Doan**
+- **Lai Minh Thong (Tom)**
+- **Anne Zhang**
 
 ## 📎 Project Highlights
 
