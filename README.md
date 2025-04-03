@@ -5,19 +5,18 @@
 
 ## 🔍 Project Overview
 
-This project was developed for the McGill–FIAM Quantitative Asset Management Hackathon. We built a machine learning-driven long-short equity strategy using XGBoost and financial NLP. The model was trained on historical fundamental and alternative data to forecast stock returns and construct an optimized portfolio that significantly outperformed the S&P 500.
+This project was developed for the McGill–FIAM Quantitative Asset Management Hackathon. We built a machine learning-driven long-short equity strategy using XGBoost and financial Data. The model was trained on historical fundamental and alternative data to forecast stock returns and construct an optimized portfolio that significantly outperformed the S&P 500.
 
 ## 🎯 Objectives
 
 - Predict monthly stock returns using a machine learning model.
-- Incorporate NLP-based sentiment signals from financial news.
 - Construct and optimize a long-short portfolio using predicted returns.
 - Benchmark against market indices over a 14-year period (2010–2024).
 
 ## 🧠 Methodology
 
-- **Data Sources**: Historical financial statements, alternative data, and financial news.
-- **Preprocessing**: Feature engineering on temporal data and NLP extraction from financial text.
+- **Data Sources**: Historical financial data and alternative data
+- **Preprocessing**: Feature engineering on temporal data and extraction from financial text.
 - **Model**: XGBoost regression for return prediction.
 - **Strategy**: Monthly rebalancing with top/bottom decile stock selection for long-short positioning.
 - **Backtesting**: Evaluated on historical data with key risk and performance metrics.
@@ -26,8 +25,7 @@ This project was developed for the McGill–FIAM Quantitative Asset Management H
 
 - Python (Pandas, NumPy, Matplotlib, Scikit-learn)
 - XGBoost
-- NLP: spaCy, NLTK
-- Portfolio Optimization: CVaR/Markowitz Framework
+- Portfolio Optimization: Markowitz Framework
 - Visualization: Matplotlib, Seaborn
 
 ## 📈 Results
@@ -55,8 +53,7 @@ This project was developed for the McGill–FIAM Quantitative Asset Management H
 ## 📎 Project Highlights
 
 - Blended quantitative modeling with practical investment strategy
-- Applied NLP to extract alpha from unstructured financial data
-- Designed end-to-end pipeline from data ingestion to performance evaluation
+- Designed end-to-end pipeline from data ingestion to performance predictive evaluation
 
 ## 📬 Contact
 
