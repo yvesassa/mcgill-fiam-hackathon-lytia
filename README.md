@@ -46,7 +46,7 @@ This project was developed for the McGill–FIAM Quantitative Asset Management H
 ## 👤 Contributors
 
 - **Yves E. Assali**
-- **Luas Doan**
+- **Lucas Doan**
 - **Lai Minh Thong (Tom)**
 - **Anne Zhang**
 
